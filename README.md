@@ -1,5 +1,9 @@
 # How to use
 
+![Human Pose Graph](https://github.com/imvickykumar999/Human-Pose/blob/master/outputgraph.jpg)
+
+[![Insta Video](https://github.com/imvickykumar999/Human-Pose/blob/master/instavideo.mp4)]
+
 - Test with webcam
 
 ```
