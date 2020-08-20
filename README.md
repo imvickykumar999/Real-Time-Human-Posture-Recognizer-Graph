@@ -1,7 +1,7 @@
 # Output
 ![Human Pose Graph](https://github.com/imvickykumar999/Human-Pose/blob/master/outputgraph.jpg)
 
-[![Insta Video]](https://github.com/imvickykumar999/Human-Pose/blob/master/instavideo.mp4)
+[![Insta Video](https://github.com/imvickykumar999/Human-Pose/blob/master/instavideo.jpg)](https://github.com/imvickykumar999/Human-Pose/blob/master/instavideo.mp4 "Insta Video")
 
 
 ## How to use
